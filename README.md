@@ -4,7 +4,7 @@ My GitHub account has just been created so it doesn't have much going on yet. Bu
 The repository I created is for a class assignment. It holds some basic information.
 First i created the repository on the web app, then I downloaded the desktop app and cloned the repository, creating a GitHub file on my desktop.
 
-#About Me
+#About Me  
 ##Hobbies
 * EDH (Magic The Gathering)
  I love playing EDH. The best format in MTG. I enjoy building decks and trying to make sure i get my engine going and out-value my opponents.
